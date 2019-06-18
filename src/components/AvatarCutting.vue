@@ -2,7 +2,7 @@
  * @Description: change_img_crop component
  * @Author: dizzyLee
  * @Date: 2019-06-13 10:00:54
- * @LastEditTime: 2019-06-17 19:12:40
+ * @LastEditTime: 2019-06-18 09:00:38
  * @LastEditors: Please set LastEditors
  -->
 
@@ -59,7 +59,6 @@
 </template>
 
 <script>
-import { close } from "fs";
 export default {
   name: "AvatarCutting",
   props: {
